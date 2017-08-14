@@ -1,0 +1,8 @@
+title: Sunsun12.GitHub.io
+description: sunsun12.github.io
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-time-machine
+
+gems:
+  - jekyll-mentions
